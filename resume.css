@@ -11,13 +11,7 @@
     font-family: 'Poppins', sans-serif;  
 }
 
-/* :root{
-    --bg-color:#081b29;
-   --second-bg-color:#112e42;
-    --text-color:#ededed ;
-    --main-color: #00abf0;
 
-} */
 :root {
     --bg-color: #050c10;
     --second-bg-color: #181f24;
@@ -785,6 +779,16 @@ cursor: pointer;
     .home-content h1{
         font-size:5rem;
     }
+
+           .home-sci {
+               width: 160px;
+           }
+    
+           .home-sci a {
+               margin-top: 38px;
+               
+           }
+           
 }
 
 @keyframes homeBgText{
